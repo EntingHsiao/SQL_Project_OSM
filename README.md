@@ -1,6 +1,6 @@
 # SQL Project - OpenStreetMap Data 
 
-In this project, I created the database with the cleaned CSV files and conducted SQL queries to provide a statistical analysis of Boston's OpenStreetMap(OSM) data. The clean data is forked the [MohamadZein](https://github.com/MohamadZeini)'s repository. 
+In this project, I created the database with the cleaned CSV files and conducted SQL queries to perform a statistical analysis of Boston's OpenStreetMap(OSM) data. The clean data is forked from [MohamadZein](https://github.com/MohamadZeini)'s repository. 
 
 ## Map area : Boston, Massachusetts, USA
 
@@ -19,7 +19,7 @@ file 'ways_nodes.csv' is 52.3 MB
 ## Vizulizations of the Report Highlights 
 The charts are created with Python Seaborn
 
-### The most popular fastfood chians in Boston is Dunkin' Donuts
+### The most popular fastfood chain in Boston is Dunkin' Donuts
 
 ![fastfood](https://github.com/EntingHsiao/SQL_Project_OSM/blob/master/fastfood.png)
 
