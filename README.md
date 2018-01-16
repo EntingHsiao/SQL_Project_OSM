@@ -29,6 +29,6 @@ The charts are created with Python Seaborn
 
 ### Top 10 cuisines in Boston
 
-![cuisines](https://github.com/EntingHsiao/SQL_Project_OSM/blob/master/popularcusines.png)
+![cuisines](https://github.com/EntingHsiao/SQL_Project_OSM/blob/master/popularcuisines.png)
 
 [Link to the Project](http://htmlpreview.github.io/?https://github.com/EntingHsiao/SQL_Project_OSM/blob/master/report.html)
