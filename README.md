@@ -16,12 +16,19 @@ file 'ways.csv' is 20.0 MB
 file 'ways_tags.csv' is 21.5 MB
 file 'ways_nodes.csv' is 52.3 MB
 
-## Highlights of the Analysis 
+## Vizulizations of the Report Highlights 
+The charts are created with Python Seaborn
 
+### The most popular fastfood chians in Boston is Dunkin' Donuts
 
+![fastfood](https://github.com/EntingHsiao/SQL_Project_OSM/blob/master/fastfood.png)
 
+### The top banks by number of branches 
 
+![bank](https://github.com/EntingHsiao/SQL_Project_OSM/blob/master/banks.png)
 
+### Top 10 cuisines in Boston
 
+![cuisines](https://github.com/EntingHsiao/SQL_Project_OSM/blob/master/popularcusines.png)
 
 [Link to the Project](http://htmlpreview.github.io/?https://github.com/EntingHsiao/SQL_Project_OSM/blob/master/report.html)
